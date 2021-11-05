@@ -1,0 +1,21 @@
+{
+	"params":
+	{
+		"local_server":"True",
+		"local_uri":"mysql://root:@localhost/mmatbros",
+		"prod_uri":"mysql://root:@localhost/mmatbros",
+		"fb_url":"https://facebook.com/mmatbros",
+		"tw_url":"https://twitter.com/mmatbros",
+		"gh_url":"https://github.com/mmatbros",
+		"blog_name":"MMAT Bros",
+		"tag_line":"a personal blog page",
+		"gmail-user":"taha.bombaywalait2018@indoreinstitute.com",
+		"gmail-password":"mnbvcxzt8242",
+		"about_text":"Hiii, this for learning purpose so dont mind anything",
+		"no_of_post":5,
+		"login_image":"Taha.jpg",
+		"admin_user":"taha@98765",
+		"admin_password":"qwerty123"
+
+	}
+}
